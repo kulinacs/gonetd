@@ -1,0 +1,5 @@
+# Bind Shell
+[[service]]
+name = "Shell"
+port = 1337
+command = "/bin/sh"
